@@ -9,7 +9,7 @@ namespace EncryptDecryptProject
     {
         static void Main(string[] args)
         {
-            var key = "superPOS+01";
+            var key = "encrypt+key";
             var password = "123123123";
             var passwordEncrpt = Encrypt(password, key);
             var passwordDencrpt = Decrypt(passwordEncrpt, key);
