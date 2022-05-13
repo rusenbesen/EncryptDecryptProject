@@ -1,0 +1,14 @@
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\bin\Debug\netcoreapp3.1\EncryptDecryptProject.exe
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\bin\Debug\netcoreapp3.1\EncryptDecryptProject.deps.json
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\bin\Debug\netcoreapp3.1\EncryptDecryptProject.runtimeconfig.json
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\bin\Debug\netcoreapp3.1\EncryptDecryptProject.runtimeconfig.dev.json
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\bin\Debug\netcoreapp3.1\EncryptDecryptProject.dll
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\bin\Debug\netcoreapp3.1\EncryptDecryptProject.pdb
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\obj\Debug\netcoreapp3.1\EncryptDecryptProject.csproj.AssemblyReference.cache
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\obj\Debug\netcoreapp3.1\EncryptDecryptProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\obj\Debug\netcoreapp3.1\EncryptDecryptProject.AssemblyInfoInputs.cache
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\obj\Debug\netcoreapp3.1\EncryptDecryptProject.AssemblyInfo.cs
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\obj\Debug\netcoreapp3.1\EncryptDecryptProject.csproj.CoreCompileInputs.cache
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\obj\Debug\netcoreapp3.1\EncryptDecryptProject.dll
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\obj\Debug\netcoreapp3.1\EncryptDecryptProject.pdb
+C:\Users\201021\source\repos\EncryptDecryptProject\EncryptDecryptProject\obj\Debug\netcoreapp3.1\EncryptDecryptProject.genruntimeconfig.cache
